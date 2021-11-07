@@ -1,1 +1,1 @@
-# Nesneye-Y-nelik-Programlama
+# Nesneye-Yonelik-Programlama
