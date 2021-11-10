@@ -7,7 +7,7 @@ package pkg170201102;
 
 import java.util.Scanner;
 
-// NISANUR YADIGAR KORKMAZ 170201102
+
 
 public class Main {
 
