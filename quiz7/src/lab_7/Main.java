@@ -1,6 +1,6 @@
 package lab_7;
 
-//NISANUR YADIGAR KORKMAZ 170201102
+
 
 import java.util.Scanner;
 public class Main {
