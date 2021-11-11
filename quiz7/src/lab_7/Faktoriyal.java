@@ -1,7 +1,7 @@
 
 package lab_7;
 
-//NISANUR YADIGAR KORKMAZ 170201102
+
 
  
 public class Faktoriyal {
