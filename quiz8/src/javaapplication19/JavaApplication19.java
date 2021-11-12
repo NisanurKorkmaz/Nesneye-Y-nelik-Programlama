@@ -7,7 +7,7 @@ package javaapplication19;
 
 import java.util.ArrayList;
 
-//NISANUR YADIGAR KORKMAZ 170201102
+
 
 public class JavaApplication19 {
     
