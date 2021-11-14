@@ -5,7 +5,6 @@
  */
 package autopark;
 
-//NISANUR YADIGAR KORKMAZ 170201102
 
 public interface Arac {
 //doldur 
