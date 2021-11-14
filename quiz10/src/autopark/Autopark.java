@@ -5,7 +5,7 @@
  */
 package autopark;
 
-//NISANUR YADIGAR KORKMAZ 170201102
+
 
 import java.util.Vector;
 import java.util.*;
