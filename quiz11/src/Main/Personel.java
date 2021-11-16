@@ -5,7 +5,6 @@
  */
 package Main;
 
-//NISANUR YADIGAR KORKMAZ 170201102
 public abstract class Personel extends Maas implements Kisi {
 
     int maas;
