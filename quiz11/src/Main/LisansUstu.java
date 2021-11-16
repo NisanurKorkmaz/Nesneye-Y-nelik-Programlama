@@ -5,7 +5,6 @@
  */
 package Main;
 
-//NISANUR YADIGAR KORKMAZ 170201102
 
 public abstract class LisansUstu extends Ogrenci {
     int LisansYili;
