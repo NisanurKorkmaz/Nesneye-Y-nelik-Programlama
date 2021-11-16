@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-//NISANUR YADIGAR KORKMAZ 170201102
+
 
 package Main;
 
