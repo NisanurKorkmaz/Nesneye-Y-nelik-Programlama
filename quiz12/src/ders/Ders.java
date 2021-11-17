@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ders;
-//NISANUR YADIGAR KORKMAZ 170201102
+
 
 import java.util.Scanner;
 import java.io.File;
